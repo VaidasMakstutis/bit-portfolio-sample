@@ -1,0 +1,51 @@
+/* base */
+@import './base/reset.css';
+@import './base/variables.css';
+@import './base/layout.css';
+@import './base/base.css';
+
+/* 3rd-party */
+/* @import './3rd-party/font-awesome.min.css'; */
+
+/* components */
+@import './components/button.css';
+@import './components/footer.css';
+@import './components/header.css';
+
+/* CUSTOM PAGE STYLE BELOW THIS COMMENT LINE */
+
+/* header start */
+/* header end */
+
+/* hero start */
+/* hero end */
+
+/* about me start */
+/* about me end */
+
+/* skills start */
+/* skills end */
+
+/* resume start */
+/* resume end */
+
+/* achievements start */
+/* achievements end */
+
+/* services start */
+/* services end */
+
+/* portfolio start */
+/* portfolio end */
+
+/* testimonials start */
+/* testimonials end */
+
+/* blog start */
+/* blog end */
+
+/* get in touch start */
+/* get in touch end */
+
+/* footer start */
+/* footer end */
